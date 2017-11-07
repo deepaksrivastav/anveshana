@@ -5,7 +5,7 @@
 - Was formed in 1969 on the Independence Day by Dr. Vikram Sarabhai 
 - Dr. Vikram Sarabahi is named the Father of India's Space Program
 - India's first satellite was called Aryabhatta and was launched by the Soviet Union on April 19, 1975
-- India's first launch vehice was called the Satellite Launch Vehicle 3 and Dr. A. P. J. Abdul Kalam who also served as the President of India from 2002 to 2007
+- India's first launch vehice was called the Satellite Launch Vehicle 3 and the Dr. A. P. J. Abdul Kalam who also served as the President of India from 2002 to 2007 was the Project Manager of this program.
 
 Let us look at some of the important space missions carried out by ISRO
 
@@ -68,7 +68,9 @@ Some facts about INSAT:
 
 - ISRO holds the record for maximum number satellites launched in a single payload (20 satellites)
 
-- - Sriharikotta in Andhra Pradesh
+- ISRO has launch centers in:
+
+  - Sriharikotta in Andhra Pradesh
 
   - Thiruvananthapuram in Kerala
 
