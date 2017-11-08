@@ -6,6 +6,10 @@
 - Dr. Vikram Sarabahi is named the Father of India's Space Program
 - India's first satellite was called Aryabhatta and was launched by the Soviet Union on April 19, 1975
 - India's first launch vehice was called the Satellite Launch Vehicle 3 and the Dr. A. P. J. Abdul Kalam who also served as the President of India from 2002 to 2007 was the Project Manager of this program.
+- ISRO has launch centers in:
+  	- Sriharikotta in Andhra Pradesh
+  	- Thiruvananthapuram in Kerala
+  	- Dr. Abdul Kalam Island in Orissa
 
 Let us look at some of the important space missions carried out by ISRO
 
@@ -74,12 +78,15 @@ Some facts about INSAT:
 ## Facts
 
 - ISRO holds the record for maximum number satellites launched in a single payload (104 satellites !)
-- ISRO has launch centers in:
-  - Sriharikotta in Andhra Pradesh
-  - Thiruvananthapuram in Kerala
-  - Dr. Abdul Kalam Island in Orissa
+- We have our own Space Observatory called AstroSat. 
 - ISRO's expenditure in the last 40 years is roughly half of NASA's single year budget
 - We have our own version of Google Maps called Bhuvan
 - ISRO is one of the six space agencies in the world with the capability to build and launch satellites
 - ISRO also helps other countries to launch their satellites
 - Chandrayaan 2 is in the works and this time ISRO plans to deploy a Rover on the Moon
+
+## Links and References
+- https://www.isro.gov.in
+- https://www.isro.gov.in/update/15-feb-2017/pslv-c37-successfully-launches-104-satellites-single-flight
+- https://www.isro.gov.in/astrosat-0
+- https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation
