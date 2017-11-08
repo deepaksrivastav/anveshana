@@ -37,9 +37,11 @@ Some facts about INSAT:
 - A Moon Impact Probe (MIP) was launched from the Orbiter to test the impact of a satellite landing on Moon, the data of which will be used in future missions for soft-landing missions
 - Was operational for 312 days
 
-| Specifications             | https://www.isro.gov.in/Spacecraft/chandrayaan-1 |
-| Picture Gallery            | http://bit.ly/2hhKlhN                            |
-| Video of the Lunar Surface | http://bit.ly/2hRTlry                            |
+|  Description | Links |
+|----------------------------|--------------------------------------------------|
+| Specifications | https://www.isro.gov.in/Spacecraft/chandrayaan-1 |
+| Picture Gallery | http://bit.ly/2hhKlhN |
+| Video of the Lunar Surface | http://bit.ly/2hRTlry |
 
 
 ## Mangalyaan - Mars Mission
@@ -66,8 +68,6 @@ Some facts about INSAT:
 - The Mangalyaan probe spent a month orbiting Earth before being transferred to Mars Orbit. It took 298 days for the probe to reach the Mars orbit
 
 - Mangalyaan probe is still Operational and remains in good health
-
-  ​
 
 ## Facts
 
