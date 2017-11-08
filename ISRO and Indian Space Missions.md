@@ -1,7 +1,7 @@
 # ISRO and Indian Space Missions
 
 - ISRO short for Indian Space Research Organization is the space agency of the Government of India
-- Head Quarters is in Bangalore, Karnataka
+- Head Quarters is in Bengaluru, Karnataka
 - Was formed in 1969 on the Independence Day by Dr. Vikram Sarabhai 
 - Dr. Vikram Sarabahi is named the Father of India's Space Program
 - India's first satellite was called Aryabhatta and was launched by the Soviet Union on April 19, 1975
